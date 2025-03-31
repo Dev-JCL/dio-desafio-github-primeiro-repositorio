@@ -1,0 +1,1 @@
+ - Typora:aplicativo/editor de texto que gera uma interface simples, para códigos Markdown com preview. 
